@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ranju yadav</h1>
-<h3 align="center">i am BscIT student</h3>
-
-<p align="right"> <img src="![image](https://github.com/user-attachments/assets/d713a64c-b2ee-4c5b-b6a2-a69b42fe4d24)" /> </p>
+<h3 align="Center">I am BscIT student</h3>
 
 - 📫 How to reach me **ranjuydv2246@gmail.com**
 
